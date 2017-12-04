@@ -1,2 +1,2 @@
 # hello-world
-newbie
+hi everyone, my name is edison, it's glad to see yo'all!!
